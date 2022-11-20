@@ -6,9 +6,7 @@ public class TestClass1 {
 	
 		System.out.println("Tc01");
 		System.out.println("Tc01");
-		System.out.println("Tc01");
-		System.out.println("Tc01");
-		System.out.println("Tc01");
+		
 		
 		
 	}
